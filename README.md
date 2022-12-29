@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.positronx.io%2Fwp-content%2Fuploads%2F2018%2F11%2Fpositronx-banner-1152-1.jpg&f=1&nofb=1&ipt=23752351b10cfbaf5b9eea6ffab1ba3961ccb1bd343a54df64c014c64c405684&ipo=images" alt="Bot logo"></a>
+ <img width=200px height=200px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.manejandodatos.es%2Fwp-content%2Fuploads%2F2015%2F03%2Ftypescript.png&f=1&nofb=1&ipt=0fe4fbec79afe1edc9241b1345ff7c4a2abcb94f5596591df277ddd1c75688a6&ipo=images" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">typescriptmern-boilerplate</h3>
@@ -20,9 +20,17 @@
 Simple setup for typescript and express
 
 ## 💭 How it works <a name = "working"></a>
+
+For SSH
 ```bash
-git clone xyx
+git clone git@github.com:iMiebaka/TypescriptMERN-Boilerplate.git
 ```
+
+For HTTP
+```bash
+git clone https://github.com/iMiebaka/TypescriptMERN-Boilerplate.git
+```
+
 
 ### Prerequisites
 
@@ -34,14 +42,15 @@ git clone xyx
 ```bash
 npm i
 ```
-
-
+To run the app use the command below
+```bash
+npm run dev
+```
 
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@imiebaka](https://github.com/imiebaka) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/imiebaka/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
